@@ -1,5 +1,4 @@
-<link href="algolia.css" rel="stylesheet" type="text/css" />
- const searchClient = algoliasearch('O22RB5L6OV', 'df701a886b2fc9905f6f34d4d3f321d2');
+const searchClient = algoliasearch('O22RB5L6OV', 'df701a886b2fc9905f6f34d4d3f321d2');
 
 const search = instantsearch({
 indexName: 'Email-Index',
